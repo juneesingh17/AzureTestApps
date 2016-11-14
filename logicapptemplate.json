@@ -10,7 +10,7 @@
     },
     "testUri": {
       "type": "string",
-      "defaultValue": "www.google.com.au",
+      "defaultValue": "https://www.google.com.au/",
       "metadata": {
         "description": "A test URI"
       }
